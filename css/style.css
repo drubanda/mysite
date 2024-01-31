@@ -144,6 +144,7 @@ border-bottom-right-radius: 0; */
 }
 
 .grid-box #hero-section {
+   padding-top: 50%;
    border-bottom-left-radius: 20px;
    box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
   
@@ -166,16 +167,10 @@ border-bottom-right-radius: 0; */
 }
 
 /* ONLOADHEROSECTION */
-.pad-hero{
-   padding-top: 200%;
-   
-}
-.change-pad-hero{
-   padding-top: 50%;
-   
-}
+
 
 #hero-section #hero-hd {
+   
    margin-top: 30px;
    margin-left: 40px;
    grid-column-start: 1;

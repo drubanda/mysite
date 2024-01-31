@@ -31,8 +31,8 @@ let dropNav = () => {
 }
 
 function hero(){
-   heroSection.classList.remove('pad-hero');
-   heroSection.classList.add('change-pad-hero');
+   // heroSection.classList.remove('pad-hero');
+   // heroSection.classList.add('change-pad-hero');
 }
 function animateSkills(){
   if(Number.parseInt(containerbox.scrollTop)>100){
