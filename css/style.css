@@ -144,8 +144,9 @@ border-bottom-right-radius: 0; */
 }
 
 .grid-box #hero-section {
+   
+   margin-top: 28%;
    padding-top: 30%;
-   margin-top: 20%;
    border-bottom-left-radius: 20px;
    box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
   
