@@ -21,7 +21,7 @@ body {
    flex-direction: column;
    left: 0;
    right: 0;
-   position: absolute;
+   /* position: absolute; */
 }
 
 .navbar #top-nav {
